@@ -1,2 +1,2 @@
-#My development environment configurations
+#My Configurations
 Configurations
