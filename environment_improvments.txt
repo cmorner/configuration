@@ -2,3 +2,4 @@ Browser Sync
 libsass
 Dropbox clipboard funcationality
 html minify
+Select everything inbetween two brackets
