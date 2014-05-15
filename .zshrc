@@ -37,6 +37,7 @@ alias lime="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
 alias subl='lime'
 alias gr:s="grunt server"
 alias gr:t="grunt test"
+alias gr:j="grunt jshint"
 
 # Active Projects
 alias lop="cd ~/Documents/Lexia/Frontend/src/"
